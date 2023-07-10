@@ -1,0 +1,9 @@
+1. HTTP Strict Transport Security
+2. Content Security Policy
+3. X-Content-Type-Options
+4. Server
+5. Access-control-allow-origin
+6. Access-control-allow-methods
+7. X-XSS-Protection
+
+pip install requests beautifulsoup4

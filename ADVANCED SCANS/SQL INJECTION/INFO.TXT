@@ -1,0 +1,5 @@
+
+REQUIREMENTS: COMMAND
+
+pip install sqlmap
+

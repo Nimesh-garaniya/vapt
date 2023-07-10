@@ -1,0 +1,8 @@
+- Reflected XSS
+- Steal Cookies with Reflected XSS
+- Stored XSS
+- DOM based XSS
+
+REQUIREMENTS:
+beautifulsoup4==4.9.3
+requests==2.25.1
